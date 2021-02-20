@@ -49,10 +49,12 @@ In preparation for next week, complete the following in lab:
   <img src="documentation/Google Pop-Up.png" alt="Google Pop-Up Screen" width="300px"/>
     
   - After signing in, there should be a Navbar
+    - If your screen size is small, the Navbar might be collapsed like in the image below. Click on the hamburger button to open it.
  
   <img src="documentation/Logged In Screen.png" alt="Logged In Screen" width="300px"/>
   
-  - Open the Navbar using the hamburger menu and click on the Log Out Button
+  - Click on the Log Out Button
+
  
   <img src="documentation/Logout Button.png" alt="Logout Button Screen" width="300px"/>    
   
